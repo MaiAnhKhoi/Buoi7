@@ -1,0 +1,17 @@
+table{
+    border-collapse:collapse;
+    border-spacing:10px;
+}
+th,td{
+    padding: 3px 50px;
+    text-align: center;
+}
+#btn{
+    background-color: blueviolet;
+    border-radius: 5px;
+    width: 90px;
+}
+#title{
+    color: blue;
+    text-align: left;
+}
